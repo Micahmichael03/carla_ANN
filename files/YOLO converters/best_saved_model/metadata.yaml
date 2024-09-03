@@ -1,0 +1,38 @@
+description: Ultralytics best model (untrained)
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-08-16T00:06:50.056467'
+version: 8.0.145
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Green light
+  1: Right Arrow
+  2: Straight and Right Arrow
+  3: StraightArrow
+  4: Yellow light
+  5: bicycle
+  6: bird
+  7: briage
+  8: bus
+  9: car
+  10: edge lane
+  11: lanes
+  12: left arrow
+  13: middle lane
+  14: motor
+  15: motorbike
+  16: person
+  17: pole
+  18: pottedplant
+  19: red light
+  20: road
+  21: stop
+  22: straight and left arrow
+  23: traffic light
+  24: truck
+  25: walk way

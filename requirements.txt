@@ -1,0 +1,16 @@
+
+numpy
+pygame
+ultralytics
+glob2
+os
+sys
+time
+random
+matplotlib
+logging
+datetime
+opencv-python
+
+
+pip install -r requirements.txt

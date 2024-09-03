@@ -1,0 +1,59 @@
+# Number of classes
+nc: 30
+
+# Class names
+names:
+  0: car
+  1: person
+  2: traffic light
+  3: red light
+  4: stop
+  5: motorbike
+  6: pole
+  7: edge lane
+  8: middle lane
+  9: truck
+  10: bicycle
+  11: walk way
+  12: bus
+  13: Straight and Right Arrow
+  14: straight and left arrow
+  15: Green light
+  16: lanes
+  17: road
+  18: 90
+  19: bench
+  20: Yellow light
+  21: StraightArrow
+  22: pottedplant
+  23: left arrow
+  24: Right Arrow
+  25: bird
+  26: 60
+  27: barrie
+  28: brige
+  29: motor
+
+"""
+    0: '30',           # Speed limit 30
+    1: '60',           # Speed limit 60
+    2: '90',           # Speed limit 90
+    3: 'bike',         # Bicycle
+    4: 'bus',          # Bus
+    5: 'car',          # Car
+    6: 'green_light',  # Green traffic light
+    7: 'pedestrian',   # Pedestrian
+    8: 'red_light',    # Red traffic light
+    9: 'truck',        # Truck
+
+    color_map = {0: (255, 0, 0),    # Red for '30'
+        1: (0, 255, 0),    # Green for '60'
+        2: (0, 0, 255),    # Blue for '90'
+        3: (255, 255, 0),  # Cyan for 'bike'
+        4: (255, 0, 255),  # Magenta for 'bus'
+        5: (0, 255, 255),  # Yellow for 'car'
+        6: (128, 0, 0),    # Dark Red for 'green_light'
+        7: (0, 128, 0),    # Dark Green for 'pedestrian'
+        8: (0, 0, 128),    # Dark Blue for 'red_light'
+        9: (128, 128, 0),  # Olive for 'truck'
+"""

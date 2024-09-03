@@ -1,0 +1,21 @@
+https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
+
+start_points = get_specific_spawn_point(world, x=70, y=20, z=0.5, yaw=90.0)
+
+start_points = get_specific_spawn_point(world, x=200, y=10, z=0.5, yaw=180.0)
+
+start_points = get_specific_spawn_point(world, x=-100, y=-50, z=0.5, yaw=45.0)
+
+start_points = get_specific_spawn_point(world, x=150, y=-100, z=0.5, yaw=135.0)
+
+start_points = get_specific_spawn_point(world, x=300, y=-20, z=0.5, yaw=0.0)
+
+start_points = get_specific_spawn_point(world, x=-50, y=100, z=0.5, yaw=270.0)
+
+start_points = get_specific_spawn_point(world, x=400, y=150, z=0.5, yaw=90.0)
+
+start_points = get_specific_spawn_point(world, x=120, y=80, z=0.5, yaw=60.0)
+
+start_points = get_specific_spawn_point(world, x=50, y=50, z=0.5, yaw=30.0)
+
+https://blog.csdn.net/qq_41871826/article/details/101476719 

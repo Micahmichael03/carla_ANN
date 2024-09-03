@@ -1,0 +1,14 @@
+future
+numpy
+pygame
+ultralytics
+glob
+os
+sys
+time
+random
+numpy
+matplotlib
+logging
+datetime
+open-cv
